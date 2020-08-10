@@ -13,3 +13,10 @@ Based on the CodePen from @cybercountess
 `https://codepen.io/cybercountess`
 
 ![AFK](./ReadMe-Images/AFK-Glitch.PNG)
+
+## Intro Screen
+
+Also based on the CodePen from @cybercountess
+`https://codepen.io/cybercountess`
+
+![Intro](./ReadMe-Images/Intro-Screen.PNG)
